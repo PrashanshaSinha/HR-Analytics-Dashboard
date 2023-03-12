@@ -8,3 +8,4 @@ Created Interactive Tableau Background to be used in the Analytics Dashboard.
 Inter connected Multiple Page Dashboard using Tile & Float method.
 Forecasted & predicted the Attrition Dataset in Float & Tiled. Dashboard.
 To see the project Dashboard please visit the link ; https://public.tableau.com/app/profile/prashansha.sinha/viz/HRAnalytics_16780414354450/HRAnalyticsDashboard
+![HR Analytics Dashboard](https://user-images.githubusercontent.com/127676790/224560923-fe09c65f-146c-4cf2-b1ac-b7f09a045889.jpeg)
